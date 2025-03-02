@@ -14,7 +14,7 @@ export default async function Home({
       author: { _id: 1, name: "Harsh" },
       _id: 1,
       description: "This is a description",
-      image: "https://www.freeimages.com/photo/poppies-2-1334190",
+      image: "https://images.freeimages.com/images/large-previews/355/poppies-2-1334190.jpg?fmt=webp&h=350",
       category: "Robots",
       title: "We Robots",
     },
