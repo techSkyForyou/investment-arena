@@ -1,3 +1,4 @@
+1) https://github.com/techSkyForyou/investment-arena :- This is a market place where we are storing the investment details of any startup and then the users will be able to see the ideas published here and raise the funding for their ideas. Completely built using Next JS, Sanity etc. This can be further enhanced to add the Block-Chain as a backend, to maintain uniqueness for the ideas.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
